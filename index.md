@@ -1,5 +1,4 @@
 # Keep It Moving (Austin)
-
 ===
 # Pain
 Picture of Austin Traffic
@@ -13,10 +12,10 @@ Picture of Austin Traffic
 ===
 # But what is the real secret behind the "Ride Sharing On Demand" revolution?
 ===
-###1. Great marketing
-2. Great venture backed funding
-3. Fast on-boarding process
-4. Great communicaton and information sharing gps
+### 1. Great marketing
+### 2. Great venture backed funding
+### 3. Fast on-boarding process
+### 4. Great communicaton and information sharing gps
 ===
 # So the magic is the users and the info they feed it to make it work
 ===
@@ -25,11 +24,11 @@ Picture of Austin Traffic
 # So what is the difference?
 ===
 ## 1. Make the app smarter and able to detect information that is beneficial for you and our community.
-2. Help build a focused community of commuters around you.
-3. Make it much less stressful to plan a trip and get around.
-4. Give you the power to decide on the route you want to take from when and where.
-5. Help track your miles saved and your carbon/ozone offset.
-6. Help gamify that info so that you can encourage your circle of influence to also shift their behaviors.
+## 2. Help build a focused community of commuters around you.
+## 3. Make it much less stressful to plan a trip and get around.
+## 4. Give you the power to decide on the route you want to take from when and where.
+## 5. Help track your miles saved and your carbon/ozone offset.
+## 6. Help gamify that info so that you can encourage your circle of influence to also shift their behaviors.
 <->
 Meet, Kim, an open source ride sharing solution that plans and tracks multi-modal trips.
 (Insert Image)
@@ -54,7 +53,7 @@ Mobile Web Application
 ===
 #Set your schedule request and goals
 (show image of your transportation week ahead)
-Share it with friends, ask them to join you. 
+##Share it with friends, ask them to join you. 
 Sun
 Mon
 Tues
@@ -62,14 +61,15 @@ Wed
 Thurs
 Fri
 Sat
+
 ===
-#Set your route
+# Set your route
 (insert image of screen 1)
-Where are you going?
+# Where are you going?
 (drop down menu - work)
-From where?
+# From where?
 (drop down menu - home)
-When?
+# When?
 Option 1, 2, 3
 ===
 #Route options
@@ -106,6 +106,7 @@ Choose vehicle type(s)
 8. We will save a lot more money on individual transportation costs.
 9. Date will help in growth of better public transportation options for intergration.
 10. Helps Austin become the leader in community ride-sharing.
+===
 <-> 
 # Questions
 <-> 
