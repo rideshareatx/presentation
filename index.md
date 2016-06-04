@@ -105,7 +105,7 @@ Choose vehicle type(s)
 7. This solution can them be implmented in other cities
 8. We will save a lot more money on individual transportation costs.
 9. Date will help in growth of better public transportation options for intergration.
-10. Helps Austin become the leader in community ride-sharing.
+### 10.Helps Austin become the leader in community ride-sharing.
 ===
 <-> 
 # Questions
