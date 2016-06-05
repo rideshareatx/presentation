@@ -35,26 +35,28 @@
 ===
 
 ##This app gives gives more control over transportation options
-1. User-fed data makes the app smarter and able to detect mutually beneficial information for you and entire community.
+1. Helps track your miles taveled/saved.
 2. Helps build a focused community of commuters around you.
 3. Makes it easier to plan a trip and get around.
-4. anyone may be a trip coordinator-not just employers or transportation brokers.
+4. Anyone may be a trip coordinator-not just employers or transportation brokers.
 5. Gives you power to schedule route you want to take from when and where.
-6. Organizations may coordinate rideshares or community walk/bike-athons.
+6. Database allows for other mobility options like community walk/bike-athons.
 
 <->
 
 #But what is really cool about it?
-1. Helps track your miles saved and your carbon/ozone offset.-Environmental Statistics-easy commute calculates the following impacts community wide and by participant: (reduced) vehicle miles, vehicle trips, gasoline consumption, CO2 emissions, and commute mode percentages and vehicle cost savings. Detailed Reporting- Participation, incentive, and environmental impact reports.
-2. Helps gamify that info so that you can encourage your circle of influence to also shift their behaviors.
+1. User-fed data makes the app smarter and able to detect mutually beneficial information for you and entire community.
+2. Carbon and Ozone offset reports by community and individual
+3. Tracks savings by your habits
+4. Helps gamify your info so that you can encourage your circle of friends to also compete for rewards.
 
 <->
 
-# It is all powered by the open source engine that can be expanded and used by anyone anywhere, increasing competiton and innovation.
+# It is all powered by the open source engine is scalable and can used by anyone anywhere, increasing competiton and innovation.
 
 <->
 
-## What is the impact?
+## What is the impact for Mobility Week?
 -Full report of activity for each individual and a city as a whole
 -Convert miles saved to cabon and ozone offset
 -Helps create better community mobility habits
@@ -62,7 +64,8 @@
 
 ===
 
-#Set your schedule request and goals
+# How it works
+##Set your schedule request and goals
 (show image of your transportation week ahead)
 ##Share it with friends, ask them to join you. 
 Sun
@@ -86,11 +89,11 @@ Sat
 (insert image of mockup page)
 
 ===
-
+What in it for the city?
 # How it all works together
 1. Sharing and collecting data helps make commuting decisions much more intelligent.
 2. We can study traffic patterns and build better routes and optimize streets.
-3. We can improve the local atmosphere.
+3. We can improve the local air quality.
 4. We can strenthen hyper communities.
 5. We allow for more productivity
 6. Data can be shared with other cities
