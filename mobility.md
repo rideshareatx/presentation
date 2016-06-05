@@ -2,8 +2,9 @@
 
 <->
 
-### Q: What is fundamentally driving adoption of ridesharing?
-### A:
+## Q:
+### What is fundamentally driving adoption of ridesharing?
+## A:
 - Smartphones
 - GPS
 - Cheap cellular data
@@ -20,23 +21,23 @@
 
 ===
 
-### The only essential ingredients:
+## The only essential ingredients:
 - Citizen participation
 - Information sharing
 
 ===
 
-### The technology is not rocket-science
+## The technology is not rocket-science
 ### It's collaboration software
 
 <->
 
-### What if:
+## What if:
 ### You didn't need a team of developers to build and operate a TNC?
 
 ===
 
-### What if:
+## What if:
 ### You didn't need any developers at all?
 
 Note: Starting a carpool group should be as easy as installing an app, and that app
@@ -45,38 +46,30 @@ started to miss.
 
 <->
 
-### Introducing:
+## Introducing:
 ### mobility.community
 
-===
+---
 
-### An open-source technology platform for community transport planning
+### An open-source information technology platform for community transportation
 
 <->
 
-1. Launch
-2. Sign-up
-3. Organize
-4. Get Moving
-5. Get Karma
-
-===
-
-# Launch
+## Launch
 
 Note: Anyone who wants to set up a ridesharing company or coop can download and
 run the software.  
 
 ===
 
-# Sign-up
+## Sign-up
 
 Note: Users can create an account in about a minute, or in seconds using Facebook
 authentication.
 
 ===
 
-# Organize
+## Organize
 
 Note: Users are immediately placed in a group containing other users who live and work
 in the neighborhoods they do.  They can also associate with organizations such as employers,
@@ -85,52 +78,53 @@ that are easy for everyone involved.
 
 ===
 
-# Get Moving
+## Get Moving
 
 Note: Mobile companion apps keep drivers and riders notified about who is where, who is
 on the move, and whether anyone is running behind or ahead of schedule.
 
 ===
 
-# Get Karma
+## Get Karma
 
 Note: Users are awarded points for giving lifts or using alternative transportation options.
 The platform tallies up points by person, by organization, and across entire cities.
 
 <->
 
-# Status
-- Launch (done)
-- Sign-up (done)
+### Status
+
+- Launch (check)
+- Sign-up (check)
 - Organize (in-progress)
 - Get Moving (to-do)
 - Reflect (to-do)
 
 ===
 
-### Next Steps
+### This month: Make it real
 - Wrap up version 0.1
 - Alpha test with a few hundred brave souls
 - Build a core team
 
 ===
 
-### Up Next
+### This summer: Prove it works
 - Develop mobile and karma capabilities
 - Beta test with a handful of large area employers
 - Work out all the kinks
 
 ===
 
-### Make a Difference
+### This year: Make a Difference
 - Launch to the public by year-end
 - Help incentivize good behavior
 - Support our city, independents, and entrepreneurs
 
 ===
 
-### Change the World
+### Long-term: Change the World
 - Translate to all major languages
 - Build network of non-profit and govt. sponsors
-- Give cities worldwide a new tool to encourage safe ridesharing
-- Help operators to contribute improvements to source code, benefitting everyone
+- Give cities worldwide a new tool to improve quality of life
+- Help operators push code improvements back, benefitting everyone
