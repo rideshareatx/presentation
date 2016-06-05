@@ -57,10 +57,10 @@
 <->
 
 ## What is the impact for Mobility Week?
--Full report of activity for each individual and a city as a whole
--Convert miles saved to cabon and ozone offset
--Helps create better community mobility habits
--Sets the direction of new open source technology that democratizes the market, disrupting the industry, and allowing new entrants to come in.
+1. Full report of activity for each individual and a city as a whole
+2. Convert miles saved to cabon and ozone offset
+3. Helps create better community mobility habits
+4. Sets the direction of new open source technology that democratizes the market, disrupting the industry, and allowing new entrants to come in.
 
 ===
 
