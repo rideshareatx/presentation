@@ -10,45 +10,50 @@
 ===
 
 ##KIM will know the 
-- current traffic activity
-- traffic patterns past and future
-- optimal options to move around and help schedule and coordinate them for you in the best mode for you
+- current traffic activity with past and future forecast
+- help schedule and coordinate them for you in the best mode for you
 - such as metro, rail, car-pool, rideshare, bike, walk
 
 ===
 
 # Austin Traffic
 <img src="http://techzette.com/wp-content/uploads/2014/02/traffic-austin.jpg"/>
-### Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through highest and best use of time and energy savings through mutually beneficial relationships.
 
 ===
 
 # We can do better, we will together.
+<img src="https://atxhack4change.slack.com/files/mastermind/F1E8WB8RW/daniel_lew_le_mercier_sharing_economy-300x300_1_.png"/>
 
 ===
 
 # How?
-## The magic is in the users and the info they feed our open source mobility.community engine
-<->
+## Get users and the info they feed our open source mobility.community engine
+<img src="https://atxhack4change.slack.com/files/mastermind/F1E8WGCUQ/ridesharing_1_.jpg"/>
+
+===
+
 # So what is the difference?
 
 ===
 
 ##This app gives gives more control over transportation options
 1. Helps track your miles taveled/saved.
-2. Helps build a focused community of commuters around you.
-3. Makes it easier to plan a trip and get around.
-4. Anyone may be a trip coordinator-not just employers or transportation brokers.
-5. Gives you power to schedule route you want to take from when and where.
-6. Database allows for other mobility options like community walk/bike-athons.
+2. Helps build a focused community of commuters.
+3. Makes it easier to plan a trip.
+4. Database allows for other mobility options like community walk/bike-athons.
+
 
 <->
 
-#But what is really cool about it?
-1. User-fed data makes the app smarter and able to detect mutually beneficial information for you and entire community.
+#But what is really COOL about it?
+1. User-fed data makes the app smarter for you and entire community.
 2. Carbon and Ozone offset reports by community and individual
-3. Tracks savings by your habits
+3. Tracks savings.
 4. Helps gamify your info so that you can encourage your circle of friends to also compete for rewards.
+
+===
+
+<img src="https://atxhack4change.slack.com/files/mastermind/F1E8MKAAG/ridesharecalculators.jpg"/>
 
 <->
 
@@ -58,49 +63,28 @@
 
 ## What is the impact for Mobility Week?
 1. Full report of activity for each individual and a city as a whole
+2. Companies can sign on board easily with little to no training.
 2. Convert miles saved to cabon and ozone offset
 3. Helps create better community mobility habits
-4. Sets the direction of new open source technology that democratizes the market, disrupting the industry, and allowing new entrants to come in.
+4. Open source democratizes the market, disrupts the industry, and allows for new entrants.
 
 ===
 
-# How it works
-##Set your schedule request and goals
-(show image of your transportation week ahead)
-##Share it with friends, ask them to join you. 
-Sun
-Mon
-Tues
-Wed
-Thurs
-Fri
-Sat
-
-===
-
-# Lets compete!
-(insert ledger board showing friends)
-
-===
-
-# Earn Rewards
-- At the end of the week you can earn rewards for the miles you offset
-- Build a collection of badges
-(insert image of mockup page)
-
-===
 What in it for the city?
 # How it all works together
-1. Sharing and collecting data helps make commuting decisions much more intelligent.
-2. We can study traffic patterns and build better routes and optimize streets.
-3. We can improve the local air quality.
-4. We can strenthen hyper communities.
-5. We allow for more productivity
-6. Data can be shared with other cities
-7. This solution can them be implmented in other cities
-8. We will save a lot more money on individual transportation costs.
-9. Data will help in growth of better public transportation options for intergration.
-10. Helps Austin become the leader in community ride-sharing.
+1. Open data makes intelligent commuting decisions.
+2. Data to be shared with other cities.
+3. Study traffic patterns and build better routes across neighborhoods, cities and as a whole.
+4. This solution can be implmented in other cities
+5. Helps Austin become the leader in community ride-sharing.
+
+===
+
+<img src="http://media.npr.org/assets/img/2013/12/04/texas-highway-130-9b0e52ef64c935d0dfbf36247fcd86e1ebf92581-s300-c85.jpg"/>
+
+Note: 6. Improve the local air quality.
+7. Increase productivity.
+8. Save money on individual transportation costs.
 
 ===
 
@@ -111,12 +95,3 @@ What in it for the city?
 4. Push based notifications for relevant route alerts.
 5. Integrations for event planners to manage transportation needs of their attendees.
 
-<-> 
-
-# Questions
-
-<-> 
-
-# Join us - Contact info
-
-===
