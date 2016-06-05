@@ -1,6 +1,6 @@
 # Keep It Moving (Austin)
 ===
-# Pain-Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through energy savings and mutually beneficial relationships.
+# Pain-Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through highest and best use of time and energy savings through mutually beneficial relationships.
 =
 Ridesharing is: Green, cool, and easy
 1. Green-Reduces pollution in environment otherwise created by riding separately
