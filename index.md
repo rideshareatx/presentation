@@ -25,15 +25,16 @@
 ##This app gives gives more control over transportation options
 1. User-fed data makes the app smarter and able to detect mutually beneficial information for you and entire community.
 2. Helps build a focused community of commuters around you.
-3. Make it easier to plan a trip and get around.-anyone may be a trip coordinator-not just employers or transportation brokers.
-4. Gives you power to schedule route you want to take from when and where.
-###5. Organizations may coordinate rideshares or community walk/bike-athons.
-===
-But what is really cool about it?
-## 1. Helps track your miles saved and your carbon/ozone offset.-Environmental Statistics-easy commute calculates the following impacts community wide and by participant: (reduced) vehicle miles, vehicle trips, gasoline consumption, CO2 emissions, and commute mode percentages and vehicle cost savings. Detailed Reporting- Participation, incentive, and environmental impact reports.
-## 2. Helps gamify that info so that you can encourage your circle of influence to also shift their behaviors.
+3. Makes it easier to plan a trip and get around.
+4. anyone may be a trip coordinator-not just employers or transportation brokers.
+5. Gives you power to schedule route you want to take from when and where.
+6. Organizations may coordinate rideshares or community walk/bike-athons.
 <->
-#It is all powered by the open source engine that can be expanded and used by anyone anywhere, increasing competiton and innovation.
+#But what is really cool about it?
+1. Helps track your miles saved and your carbon/ozone offset.-Environmental Statistics-easy commute calculates the following impacts community wide and by participant: (reduced) vehicle miles, vehicle trips, gasoline consumption, CO2 emissions, and commute mode percentages and vehicle cost savings. Detailed Reporting- Participation, incentive, and environmental impact reports.
+2. Helps gamify that info so that you can encourage your circle of influence to also shift their behaviors.
+<->
+# It is all powered by the open source engine that can be expanded and used by anyone anywhere, increasing competiton and innovation.
 <->
 ## What is the impact?
 -Full report of activity for each individual and a city as a whole
