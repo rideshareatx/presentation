@@ -2,14 +2,15 @@
 
 <->
 
-# What is fundamentally driving adoption of ridesharing?
+### Q: What is fundamentally driving adoption of ridesharing?
+### A:
 - Smartphones
 - GPS
 - Cheap cellular data
 
 ===
 
-# Other non-essential factors:
+### Other non-essential factors:
 - Marketing
 - Lobbying
 - Venture funding
@@ -19,19 +20,24 @@
 
 ===
 
-# The only essential ingredients are citizen participation and information sharing
+### The only essential ingredients:
+- Citizen participation
+- Information sharing
 
 ===
 
-# The technology is not rocket-science - it's collaboration software
+### The technology is not rocket-science
+### It's collaboration software
 
 <->
 
-# What if you didn't need a team of developers to build and operate a TNC?
+### What if:
+### You didn't need a team of developers to build and operate a TNC?
 
 ===
 
-# What if you didn't need any developers?
+### What if:
+### You didn't need any developers at all?
 
 Note: Starting a carpool group should be as easy as installing an app, and that app
 should work as well as the ride-sharing apps we've recently grown to love, more recently
@@ -39,11 +45,12 @@ started to miss.
 
 <->
 
-# Introducing: mobility.community
+### Introducing:
+### mobility.community
 
 ===
 
-# An open-source technology platform for community transport planning
+### An open-source technology platform for community transport planning
 
 <->
 
@@ -101,21 +108,29 @@ The platform tallies up points by person, by organization, and across entire cit
 
 ===
 
-# Next Steps
+### Next Steps
 - Wrap up version 0.1
 - Alpha test with a few hundred brave souls
 - Build a core team
 
 ===
 
-# Up Next
+### Up Next
 - Develop mobile and karma capabilities
 - Beta test with a handful of large area employers
 - Work out all the kinks
 
 ===
 
-# Dream Big
+### Make a Difference
 - Launch to the public by year-end
 - Help incentivize good behavior
-- Support the city, independents, and entrepreneurs
+- Support our city, independents, and entrepreneurs
+
+===
+
+### Change the World
+- Translate to all major languages
+- Build network of non-profit and govt. sponsors
+- Give cities worldwide a new tool to encourage safe ridesharing
+- Help operators to contribute improvements to source code, benefitting everyone
