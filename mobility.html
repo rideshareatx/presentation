@@ -1,184 +1,195 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
+<head>
+	<meta charset="utf-8">
 
-        <title>rideshareatx</title>
+	<title>rideshareatx</title>
 
-        <meta name="description" content="mobility.community">
-        <meta name="author" content="sblackmon@apache.org">
+	<meta name="description" content="mobility.community">
+	<meta name="author" content="sblackmon@apache.org">
 
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-        <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
-        <link rel="stylesheet" href="bower_components/reveal.js/css/theme/simple.css" id="theme">
-        <link rel="stylesheet" href="css/scrollable.css">
+	<link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
+	<link rel="stylesheet" href="bower_components/reveal.js/css/theme/simple.css" id="theme">
+	<link rel="stylesheet" href="css/scrollable.css">
 
-        <link rel="stylesheet" href="bower_components/reveal-highlight-themes/styles/tomorrow.css" id="highlight-theme">
+	<link rel="stylesheet" href="bower_components/reveal-highlight-themes/styles/tomorrow.css" id="highlight-theme">
 
-        <!-- If the query includes 'print-pdf', use the PDF print sheet -->
-        <script>
-            document.write( '<link rel="stylesheet" href="bower_components/reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
-        </script>
+	<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+	<script>
+	document.write( '<link rel="stylesheet" href="bower_components/reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+	</script>
 
-        <!--[if lt IE 9]>
-        <script src="lib/js/html5shiv.js"></script>
-        <![endif]-->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
 
-        <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-          ga('create', 'UA-78788878-1', 'auto');
-          ga('send', 'pageview');
+	ga('create', 'UA-78788878-1', 'auto');
+	ga('send', 'pageview');
 
-        </script>
-    </head>
-    <body>
-        <div class="reveal">
-            <div class="slides">
-                <section data-markdown="mobility.md"
-                         data-separator="<->"
-                         data-separator-vertical="==="
-                         data-vertical="==="
-                         data-separator-notes="^Note:">
-                </section>
-				<section>
-					<section class="scrollable" data-markdown>
-						#### launch cassandra
-						docker run --net=host --name cassandra -d cassandra:2.1.14
+	</script>
+</head>
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section data-markdown="mobility.md"
+			data-separator="<->"
+			data-separator-vertical="==="
+			data-vertical="==="
+			data-separator-notes="^Note:">
+		</section>
+		<section>
+			<section class="scrollable" data-markdown>
+				## Launch
 
-						#### launch elasticsearch
-						docker run --net=host --name elasticsearch -d elasticsearch:1.7.5
+				#### cassandra
+				docker run --net=host --name cassandra -d cassandra:2.1.14
 
-						#### [create server deployment file](https://usergrid.apache.org/docs/installation/deployment-guide.html#example-usergrid-stack-properties-file "https://usergrid.apache.org/docs/installation/deployment-guide.html#example-usergrid-stack-properties-file")
+				#### elasticsearch
+				docker run --net=host --name elasticsearch -d elasticsearch:1.7.5
 
-						#### launch usergrid-stack
-						docker run --name usergrid-stack -p 8080:8080 -d rideshareatx/usergrid-stack
+				#### [create server deployment file](https://usergrid.apache.org/docs/installation/deployment-guide.html#example-usergrid-stack-properties-file "https://usergrid.apache.org/docs/installation/deployment-guide.html#example-usergrid-stack-properties-file")
 
-						#### launch usergrid-portal
-						docker run --name usergrid-portal -p 5000:8080 -d rideshareatx/usergrid-portal
+				#### usergrid-stack
+				docker run --name usergrid-stack -p 8080:8080 -d rideshareatx/usergrid-stack
 
-						#### [login to admin portal](http://localhost:5000 "http://localhost:5000")
+				#### usergrid-portal
+				docker run --name usergrid-portal -p 5000:8080 -d rideshareatx/usergrid-portal
 
-						#### [configure facebook authentication](https://usergrid.apache.org/docs/security-and-auth/facebook-sign.html "https://usergrid.apache.org/docs/security-and-auth/facebook-sign.html")
+				#### [login to admin portal](http://localhost:5000 "http://localhost:5000")
 
-						#### [configure push notifications](http://usergrid.apache.org/docs/push-notifications/getting-started.html "http://usergrid.apache.org/docs/push-notifications/getting-started.html")
+				#### [configure facebook authentication](https://usergrid.apache.org/docs/security-and-auth/facebook-sign.html "https://usergrid.apache.org/docs/security-and-auth/facebook-sign.html")
 
-						#### [generate a usergrid token](https://usergrid.apache.org/docs/security-and-auth/authenticating-users-and-application-clients.html#application-client-authentication "https://usergrid.apache.org/docs/security-and-auth/authenticating-users-and-application-clients.html#application-client-authentication")
+				#### [configure push notifications](http://usergrid.apache.org/docs/push-notifications/getting-started.html "http://usergrid.apache.org/docs/push-notifications/getting-started.html")
 
-						#### launch web-app
-						docker run --name web-app -p 3000:3000 -d rideshareatx/usergrid-portal
+				#### [generate a usergrid token](https://usergrid.apache.org/docs/security-and-auth/authenticating-users-and-application-clients.html#application-client-authentication "https://usergrid.apache.org/docs/security-and-auth/authenticating-users-and-application-clients.html#application-client-authentication")
 
-						Note:
-						Anyone who wants to set up a ridesharing company or coop can download and
-						run the software, and tinker with it as they see fit.
+				#### web-app
+				docker run --name web-app -p 3000:3000 -d rideshareatx/usergrid-portal
 
-					</section>
-					<section>
-						<h2>Sign-up</h2>
+				Note:
+				Anyone who wants to set up a ridesharing company or coop can download and
+				run the software, and tinker with it as they see fit.
 
-						<img src="signup.tiff"/>
-						<img src="facebook.tiff"/>
+			</section>
+			<section>
+				<h2>Sign-up</h2>
 
-						<aside class="notes">
-							Users can create an account in about a minute, or in seconds using Facebook
-							authentication.
-						</aside>
-					</section>
-					<section>
-						<h2>Organize</h2>
+				<img src="signup.tiff"/>
+				<img src="facebook.tiff"/>
 
-						<aside class="notes">
-							Users are immediately placed in a group containing other users who live and work
-							in the neighborhoods they do.  They can also associate with organizations such as employers,
-							schools, churches, or interest groups.
-						</aside>
-					</section>
-					<section>
-						<h2>Plan Trips</h2>
-						<img src="mapbox.tiff"/>
-						<aside class="notes">
-							Common and underserved routes may have the most conversation and the most trips per week,
-							but any route will be discoverable with browsing or with search.  Complex trips with multiple
-							stops are possible, with support for turn-by-turn directions and estimated travel time.
-						</aside>
-					</section>
-					<section>
-						<h2>Get Moving</h2>
-						<div style="border:3px solid black;padding:10px">
-							<p>Where are you going?</p>
-							<div>
-							  <input type="text" value="HOME"/>
+				<aside class="notes">
+					Users can create an account in about a minute, or in seconds using Facebook
+					authentication.
+				</aside>
+			</section>
+			<section>
+				<h2>Organize</h2>
+
+				<aside class="notes">
+					Users are immediately placed in a group containing other users who live and work
+					in the neighborhoods they do.  They can also associate with organizations such as employers,
+					schools, churches, or interest groups.
+				</aside>
+			</section>
+			<section>
+				<h2>Plan Trips</h2>
+				<img src="mapbox.tiff"/>
+				<aside class="notes">
+					Common and underserved routes may have the most conversation and the most trips per week,
+					but any route will be discoverable with browsing or with search.  Complex trips with multiple
+					stops are possible, with support for turn-by-turn directions and estimated travel time.
+				</aside>
+			</section>
+			<section>
+				<h2>Get Moving</h2>
+				<table>
+					<tr>
+						<td>
+							<div style="border:3px solid black;padding:10px;text-align:center">
+								<p>Where are you going?</p>
+								<div>
+									<input type="text" value="HOME"/>
+								</div>
+								<p>Where are you?</p>
+								<div>
+									<input type="text" value="OFFICE"/>
+								</div>
+								<p>When?</p>
+								<div>
+									<input type="text" value="ASAP"/>
+								</div>
+								<input type="button" value="Find a Trip"/>
 							</div>
-							<p>Where are you?</p>
-							<div>
-							  <input type="text" value="OFFICE"/>
-							</div>
-							<p>When?</p>
-							<div>
-							  <input type="text" value="ASAP"/>
-							</div>
-						</div>
-						<aside class="notes">
-							Mobile companion apps keep drivers and riders notified about who is where, who is
-							on the move, and whether anyone is running behind or ahead of schedule.
-						</aside>
-					</section>
-					<section>
-						<h2>Keep Score</h2>
+						</td>
+						<td>
+						</td>
+					</tr>
+				</table>
+				<aside class="notes">
+					Mobile companion apps keep drivers and riders notified about who is where, who is
+					on the move, and whether anyone is running behind or ahead of schedule.
+				</aside>
+			</section>
+			<section>
+				<h2>Keep Score</h2>
 
-						<aside class="notes">
-							Users are awarded points for giving lifts or using alternative transportation options.
-							The platform tallies up points by person, by organization, and across entire cities.
-							Badges can be granted upon achieving significant milestones by the software or by organizational administrators.
-						</aside>
-					</section>
-				</section>
-				<section data-markdown="mobility-wrapup.md"
-                         data-separator="<->"
-                         data-separator-vertical="==="
-                         data-vertical="==="
-                         data-separator-notes="^Note:">
-                </section>
-            </div>
-        </div>
-        <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
-        <script src="bower_components/reveal.js/js/reveal.js"></script>
-        <script>
-            // Full list of configuration options available here:
-            // https://github.com/hakimel/reveal.js#configuration
-            Reveal.initialize({
-                controls: true,
-                progress: true,
-                history: true,
-                center: true,
-                previewLinks: false,
-                touch: false,
+				<aside class="notes">
+					Users are awarded points for giving lifts or using alternative transportation options.
+					The platform tallies up points by person, by organization, and across entire cities.
+					Badges or other incentives can be granted upon achieving significant milestones by the software or by organization leaders.
+				</aside>
+			</section>
+		</section>
+		<section data-markdown="mobility-wrapup.md"
+		data-separator="<->"
+		data-separator-vertical="==="
+		data-vertical="==="
+		data-separator-notes="^Note:">
+	</section>
+</div>
+</div>
+<script src="bower_components/reveal.js/lib/js/head.min.js"></script>
+<script src="bower_components/reveal.js/js/reveal.js"></script>
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+	controls: true,
+	progress: true,
+	history: true,
+	center: true,
+	previewLinks: false,
+	touch: false,
 
-                width: 1200,
-                height: 1024,
+	width: 1200,
+	height: 1024,
 
-                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-                transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+	theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+	transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
-                // Optional libraries used to extend on reveal.js
-                dependencies: [
-                    { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-                    { src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                    { src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                    { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-                    { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-                    { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-					{ src: 'node_modules/socket.io/socket.io.js', async: true },
-        			{ src: 'bower_components/reveal.js/plugin/notes-server/client.js', async: true }
-                ]
-            });
-        </script>
-    </body>
+	// Optional libraries used to extend on reveal.js
+	dependencies: [
+		{ src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+		{ src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		{ src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		{ src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+		{ src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+		{ src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+		{ src: 'node_modules/socket.io/socket.io.js', async: true },
+		{ src: 'bower_components/reveal.js/plugin/notes-server/client.js', async: true }
+	]
+});
+</script>
+</body>
 </html>
