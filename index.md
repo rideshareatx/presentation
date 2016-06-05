@@ -19,7 +19,7 @@
 
 # Austin Traffic
 <img src="http://techzette.com/wp-content/uploads/2014/02/traffic-austin.jpg"/>
-## Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through highest and best use of time and energy savings through mutually beneficial relationships.
+### Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through highest and best use of time and energy savings through mutually beneficial relationships.
 
 ===
 
