@@ -9,7 +9,7 @@
 
 ===
 
-##KIM will know the 
+##KIM will know the
 - current traffic activity with past and future forecast
 - help schedule and coordinate them for you in the best mode for you
 - such as metro, rail, car-pool, rideshare, bike, walk
@@ -22,13 +22,13 @@
 ===
 
 # We can do better, we will together.
-<img src="https://atxhack4change.slack.com/files/mastermind/F1E8WB8RW/daniel_lew_le_mercier_sharing_economy-300x300_1_.png"/>
+<img src="sharing_economy.png"/>
 
 ===
 
 # How?
 ## Get users and the info they feed our open source mobility.community engine
-<img src="https://atxhack4change.slack.com/files/mastermind/F1E8WGCUQ/ridesharing_1_.jpg"/>
+<img src="ridesharing.jpg"/>
 
 ===
 
@@ -37,7 +37,7 @@
 ===
 
 ##This app gives gives more control over transportation options
-1. Helps track your miles taveled/saved.
+1. Helps track your miles traveled/saved.
 2. Helps build a focused community of commuters.
 3. Makes it easier to plan a trip.
 4. Database allows for other mobility options like community walk/bike-athons.
@@ -53,18 +53,18 @@
 
 ===
 
-<img src="https://atxhack4change.slack.com/files/mastermind/F1E8MKAAG/ridesharecalculators.jpg"/>
+<img src="RideshareCalculators.jpg"/>
 
 <->
 
-# It is all powered by the open source engine is scalable and can used by anyone anywhere, increasing competiton and innovation.
+# Powered by a scalable open source engine available to anyone anywhere, increasing competition and innovation.
 
 <->
 
 ## What is the impact for Mobility Week?
 1. Full report of activity for each individual and a city as a whole
 2. Companies can sign on board easily with little to no training.
-2. Convert miles saved to cabon and ozone offset
+2. Convert miles saved to carbon and ozone offset
 3. Helps create better community mobility habits
 4. Open source democratizes the market, disrupts the industry, and allows for new entrants.
 
@@ -75,7 +75,7 @@ What in it for the city?
 1. Open data makes intelligent commuting decisions.
 2. Data to be shared with other cities.
 3. Study traffic patterns and build better routes across neighborhoods, cities and as a whole.
-4. This solution can be implmented in other cities
+4. This solution can be implemented in other cities
 5. Helps Austin become the leader in community ride-sharing.
 
 ===
@@ -91,7 +91,6 @@ Note: 6. Improve the local air quality.
 #Future versions of this app may include:
 1. Usability across all platforms.
 2. Data sharing that helps municipalities plan road maintenance and transportation system efficiencies.
-3. Disscussion platforms that enriches user engagement protocols.
+3. Discussion platforms that enriches user engagement protocols.
 4. Push based notifications for relevant route alerts.
 5. Integrations for event planners to manage transportation needs of their attendees.
-
