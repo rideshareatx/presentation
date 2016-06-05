@@ -5,7 +5,7 @@
 <img src="http://cdn2.sosueme.ie/wp-content/uploads/2014/09/0799.png"/>
 ##Empowering you to create a commumunity around seamless commuting.
 ===
-### KIM will know the actual traffic activity, patterns and optimal options to move around and help schedule them for you in the best mode for you.
+### *KIM* will know the actual traffic activity, patterns and optimal options to move around and help schedule them for you in the best mode for you.
 ===
 <img src="http://techzette.com/wp-content/uploads/2014/02/traffic-austin.jpg"/>
 ###Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through highest and best use of time and energy savings through mutually beneficial relationships.
