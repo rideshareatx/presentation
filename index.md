@@ -5,11 +5,11 @@
 <img src="http://cdn2.sosueme.ie/wp-content/uploads/2014/09/0799.png"/>
 ##Empowering you to create a commumunity around seamless commuting.
 ===
-# KIM will know the 
+##KIM will know the 
 - current traffic activity
 - traffic patterns past and future
 - optimal options to move around and help schedule/coordinate them for you in the best mode for you
--such as metro, rail, car-pool, rideshare, bike, walk
+- such as metro, rail, car-pool, rideshare, bike, walk
 ===
 # Austin Traffic
 <img src="http://techzette.com/wp-content/uploads/2014/02/traffic-austin.jpg"/>
