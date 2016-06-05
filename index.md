@@ -1,9 +1,9 @@
 # Keep It Moving (ATX)
 ## an open source ride sharing solution that plans and tracks multi-modal trips.
 ===
-Meet KIM ATX
+#Meet KIM ATX
 <img src="http://cdn2.sosueme.ie/wp-content/uploads/2014/09/0799.png"/>
-Empowering you to create a commumunity around seamless commuting.
+##Empowering you to create a commumunity around seamless commuting.
 ===
 ### KIM will know the actual traffic activity, patterns and optimal options to move around and help schedule them for you in the best mode for you.
 ===
