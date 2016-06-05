@@ -1,0 +1,52 @@
+{
+  "name": "rideshareatx-org",
+  "version": "2.5.0",
+  "description": "Presentations about rideshareatx@apache.org",
+  "homepage": "http://rideshareatx-org.herokuapp.com",
+  "subdomain": "revealjs",
+  "scripts": {
+      "test": "grunt jshint",
+      "postinstall": "bower install && grunt uglify",
+      "start": "node app.js"
+  },
+  "author": {
+    "name": "Steve D Blackmon",
+    "email": "sblackmon@apache.org",
+    "web": "http://sblackmon-apache-org.herokuapp.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://git.heroku.com/rideshareatx-org.git"
+  },
+  "engines": {
+    "node": "v0.12.7",
+    "npm": "3.8.9"
+  },
+  "dependencies": {
+    "bower": "1.7.9",
+    "express": ">=4.0.0",
+    "grunt": ">=1.0.0",
+    "grunt-autoprefixer": ">=0.0.0",
+    "grunt-cli": ">=0.0.0",
+    "grunt-contrib-connect": ">=0.0.0",
+    "grunt-contrib-cssmin": ">=0.0.0",
+    "grunt-contrib-jshint": ">=0.0.0",
+    "grunt-contrib-sass": ">=0.0.0",
+    "grunt-contrib-watch": ">=0.0.0",
+    "grunt-contrib-uglify": ">=0.0.0",
+    "grunt-zip": ">=0.0.0",
+    "highlight.js": "9.3.0",
+    "mustache": ">=0.0.0",
+    "socket.io": ">=0.0.0",
+    "tmp": "0.0.28",
+    "underscore": ">=0.0.0",
+    "node-sass": ">=0.0.0",
+    "jquery": ">=0.0.0"
+  },
+  "licenses": [
+    {
+      "type": "CC BY-ND",
+      "url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode"
+    }
+  ]
+}
