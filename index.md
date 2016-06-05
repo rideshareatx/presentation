@@ -27,7 +27,7 @@
 2. Helps build a focused community of commuters around you.
 3. Make it easier to plan a trip and get around.-anyone may be a trip coordinator-not just employers or transportation brokers.
 4. Gives you power to schedule route you want to take from when and where.
-5. Organizations may coordinate rideshares or community walk/bike-athons.
+###5. Organizations may coordinate rideshares or community walk/bike-athons.
 ===
 But what is really cool about it?
 ## 1. Helps track your miles saved and your carbon/ozone offset.-Environmental Statistics-easy commute calculates the following impacts community wide and by participant: (reduced) vehicle miles, vehicle trips, gasoline consumption, CO2 emissions, and commute mode percentages and vehicle cost savings. Detailed Reporting- Participation, incentive, and environmental impact reports.
