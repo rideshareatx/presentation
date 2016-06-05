@@ -22,8 +22,8 @@
 <->
 # So what is the difference?
 ===
-##This app gives gives more control over transportation options:
-### 1. User-fed data makes the app smarter and able to detect mutually beneficial information for you and entire community.
+##This app gives gives more control over transportation options
+1. User-fed data makes the app smarter and able to detect mutually beneficial information for you and entire community.
 2. Helps build a focused community of commuters around you.
 3. Make it easier to plan a trip and get around.-anyone may be a trip coordinator-not just employers or transportation brokers.
 4. Gives you power to schedule route you want to take from when and where.-Organizations may coordinate rideshares or community walk/bike-athons.
