@@ -5,9 +5,9 @@
 ## Q:
 ### What is fundamentally driving adoption of ridesharing?
 ## A:
-- Smartphones
+- Cellular Networks
 - GPS
-- Cheap cellular data
+- Smartphones
 
 ===
 
@@ -15,9 +15,9 @@
 - Marketing
 - Lobbying
 - Venture funding
-- Logistics
-- Data Science
 - Global Scale
+- Advanced Logistics
+- Data Science / Machine Learning
 
 ===
 
@@ -41,8 +41,8 @@
 ### You didn't need any developers at all?
 
 Note: Starting a carpool group should be as easy as installing an app, and that app
-should work as well as the ride-sharing apps we've recently grown to love, more recently
-started to miss.
+should work as well as the ride-sharing apps we've recently grown to love, and more
+recently really started to miss.
 
 <->
 
@@ -58,3 +58,16 @@ started to miss.
 ##### Open Source
 ##### Open Data
 ##### Open to Anyone
+
+<->
+
+### Hack Status
+
+- Launch (check)
+- Sign-up (check)
+- Organize (in-progress)
+- Get Moving (to-do)
+- Keep Score (to-do)
+
+Note: This weekend we made significant progress on defining our MVP and putting
+infrastructure in place.

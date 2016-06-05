@@ -1,13 +1,3 @@
-### Status
-
-- Launch (check)
-- Sign-up (check)
-- Organize (in-progress)
-- Get Moving (to-do)
-- Keep Score (to-do)
-
-===
-
 ### This summer: Make it real
 - Wrap up version 0.1
 - Alpha test with a few hundred brave souls
