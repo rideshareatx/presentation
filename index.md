@@ -17,15 +17,16 @@
 ===
 # We can do better, we will together.
 ===
-# The magic is in the users and the info they feed our mobility.community engine
+# How?
+## The magic is in the users and the info they feed our open source mobility.community engine
 <->
 # So what is the difference?
 ===
-This app gives gives more control over transportation options:
-## 1. User-fed data makes the app smarter and able to detect mutually beneficial information for you and entire community.
-## 2. Helps build a focused community of commuters around you.
-## 3. Make it easier to plan a trip and get around.-anyone may be a trip coordinator-not just employers or transportation brokers.
-## 4. Gives you power to schedule route you want to take from when and where.-Organizations may coordinate rideshares or community walk/bike-athons.
+##This app gives gives more control over transportation options:
+### 1. User-fed data makes the app smarter and able to detect mutually beneficial information for you and entire community.
+2. Helps build a focused community of commuters around you.
+3. Make it easier to plan a trip and get around.-anyone may be a trip coordinator-not just employers or transportation brokers.
+4. Gives you power to schedule route you want to take from when and where.-Organizations may coordinate rideshares or community walk/bike-athons.
 ===
 But what is really cool about it?
 ## 1. Helps track your miles saved and your carbon/ozone offset.-Environmental Statistics-easy commute calculates the following impacts community wide and by participant: (reduced) vehicle miles, vehicle trips, gasoline consumption, CO2 emissions, and commute mode percentages and vehicle cost savings. Detailed Reporting- Participation, incentive, and environmental impact reports.
