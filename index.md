@@ -1,6 +1,18 @@
 # Keep It Moving (Austin)
 ===
 # Pain
+=
+It's easy... It's green... its a carpool... GET ON BOARD!
+
+Did you know each carpool (4 riders) will reduce greenhouse gases by 12,000 pounds annually? That's the equivalent of 500 gallons of gasoline.
+
+We've designed a Rideshare program with some great effects and benefits beyond the environment for both employers and commuters. For a fraction of the cost of driving alone, the benefits are numerous.
+
+The average american spends 434 hours (18 days) in their car each year.
+The average household purchases 1,143 gallons of gasoline each year.
+The US could save 33 million gallons of gasoline each day if the average commuter passenger load were increased by 1 person.
+
+
 Picture of Austin Traffic
 ===
 # We can do better
