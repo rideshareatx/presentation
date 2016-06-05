@@ -11,6 +11,7 @@
 - optimal options to move around and help schedule/coordinate them for you in the best mode for you
 -such as metro, rail, car-pool, rideshare, bike, walk
 ===
+# Austin Traffic
 <img src="http://techzette.com/wp-content/uploads/2014/02/traffic-austin.jpg"/>
 ###Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through highest and best use of time and energy savings through mutually beneficial relationships.
 ===
