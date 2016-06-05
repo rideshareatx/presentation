@@ -1,5 +1,5 @@
 # Keep It Moving (ATX)
-an open source ride sharing solution that plans and tracks multi-modal trips.
+##an open source ride sharing solution that plans and tracks multi-modal trips.
 ===
 Meet KIM ATX
 !<img src="http://cdn2.sosueme.ie/wp-content/uploads/2014/09/0799.png"/>
