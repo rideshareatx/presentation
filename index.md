@@ -4,8 +4,10 @@
 =
 Ridesharing is: Green, cool, and easy
 1. Green-Reduces pollution in environment otherwise created by riding separately
+2. Frees up highest and best use of land that may be converted from parking to additional residential, commercial, or public use.
 2. Creates Commerce-Saves money from reduced percapita transportation & energy costs-a fraction of the of driving separately.
-2. Improves Quality of Life-Fun & Easy way to create commerce through mutually beneficial relationship in the community.
+3. Frees up land-use need 
+3. Improves Quality of Life-Fun & Easy way to create commerce through mutually beneficial relationship in the community.
 
 Carpool Formation-easy commute offers a ridematching tool to simplify and encourage the formation of carpools and vanpools.
 It's easy... It's green... its a carpool... GET ON BOARD!
@@ -128,6 +130,7 @@ Choose vehicle type(s)
 2. Data sharing that helps municipalities plan road maintenance and transportation system efficiencies.
 3. Disscussion platforms that enriches user engagement protocols.
 4. Push based notifications for relevant route alerts.
+5. Integrations for event planners to manage transportation needs of their attendees.
 <-> 
 # Questions
 <-> 
