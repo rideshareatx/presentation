@@ -1,0 +1,21 @@
+{
+  "name": "rideshareatx-org",
+  "description": "Presentations about rideshareatx.org",
+  "main": "",
+  "authors": [
+    { "name": "Steve Blackmon", "email": "sblackmon@apache.org", "homepage": "http://sblackmon-apache-org.herokuapp.com" }
+  ],
+  "license": "MIT",
+  "homepage": "http://rideshareatx-org.herokuapp.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal-highlight-themes": "^8.4.0"
+  },
+  "private": true
+}
