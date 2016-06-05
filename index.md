@@ -8,7 +8,7 @@
 ##KIM will know the 
 - current traffic activity
 - traffic patterns past and future
-- optimal options to move around and help schedule/coordinate them for you in the best mode for you
+- optimal options to move around and help schedule and coordinate them for you in the best mode for you
 - such as metro, rail, car-pool, rideshare, bike, walk
 ===
 # Austin Traffic
